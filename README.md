@@ -29,50 +29,35 @@
 
 ### 2. 研究课题
 
-- `/research/contextual_alibi` - Contextual Alibi 相关研究
+#### 课题一
 
-  - `/research/contextual_alibi/papers` - 相关论文
-  - `/research/contextual_alibi/code` - 代码实现
-  - `/research/contextual_alibi/docs` - 研究文档
+- `/research/contextual_alibi` - Contextual Alibi 相关研究
 
 - `/research/linear_attention` - Linear Attention 研究
 
-  - `/research/linear_attention/papers`
-  - `/research/linear_attention/code`
-  - `/research/linear_attention/docs`
+#### 课题二
+
+- `/research/rl` - 强化学习研究
+
+#### 其他方向
 
 - `/research/test_time_scaling` - Test-time Scaling 研究
 
-  - `/research/test_time_scaling/papers`
-  - `/research/test_time_scaling/code`
-  - `/research/test_time_scaling/docs`
-
 - `/research/training_optimization` - 训练优化研究
-
-  - `/research/training_optimization/flash_attention`
-  - `/research/training_optimization/distributed`
-  - `/research/training_optimization/performance`
-
-- `/research/rl` - 强化学习研究
-  - `/research/rl/rlhf`
-  - `/research/rl/implementation`
-  - `/research/rl/applications`
 
 ### 3. 工具资源
 
 - `/tools/platforms` - 平台工具
-- `/tools/templates` - 模板资源
-- `/tools/scripts` - 实用脚本
 
 ### 4. 论文资源
 
 - `/papers/surveys` - 综述论文
-- `/papers/implementations` - 实现论文
+- `/papers/recommend` -推荐论文
 - `/papers/latest` - 最新研究
 
 ## 🤝 参与方式
 
-1. 基础知识储备
+1. 基础知识储备（请先达到这些再阅读基础）
 
    - Python 和 PyTorch 熟练使用
    - 高等数学（反向传播推导）
@@ -83,14 +68,14 @@
 
    - 资源分享：提交优质的学习资料和教程
    - 问题讨论：在 Issues 中提出和解答问题
-   - 代码贡献：提交示例代码和实现
+   - 代码贡献：请建立自己的库提交个人方向的代码
    - 经验分享：分享学习心得和实践经验
 
 3. 参与渠道
    - GitHub Issues：技术问题讨论
    - Pull Requests：提交代码和文档
    - Discussions：开放话题讨论
-   - 私聊交流：随时欢迎
+   - 私聊交流：随时欢迎联系邮箱
 
 ## 📝 贡献指南
 
