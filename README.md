@@ -2,7 +2,9 @@
 
 ## 📚 项目简介
 
-这是一个专注于大模型架构创新的研究小组。 我们致力于探索大模型的前沿技术，特别是在 attention 机制优化、模型架构创新等方向。
+N1 · Neuron One 是一个以科研实战为核心、面向大模型底层技术突破的青年研究团队，目标是在 Efficient Attention 与 Test-Time Learning 等前沿方向做出有实质性成果。
+
+项目名称为 N1 · Neuron One（暂定），Connect the First Neurons. 第一批连接的年轻神经元，构建未来智能的底层系统。
 
 ## ✨ 研究方向
 
