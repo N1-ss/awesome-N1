@@ -47,11 +47,11 @@ N1 · Neuron One 是一个以科研实战为核心、面向大模型底层技术
 
 - `/research/training_optimization` - 训练优化研究
 
-### 3. 工具资源
+### 4. 工具资源
 
 - `/tools/platforms` - 平台工具
 
-### 4. 论文资源
+### 5. 论文资源
 
 - `/papers/surveys` - 综述论文
 - `/papers/recommend` -推荐论文
